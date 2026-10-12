@@ -1,14 +1,14 @@
 
 <h1>Hi There, I'm Wabuyi Andrew <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Computer Engineering graduate** with a strong background in **software development, IT infrastructure support, networking, GIS & remote sensing, and applied engineering**. My work blends technical support, practical systems thinking, and modern software development to build solutions that solve real-world problems.
+I'm a **Computer Engineering graduate** with experience in **software development, IT infrastructure support, LAN/WAN networking, GIS & remote sensing, and applied engineering**. I work across practical systems, technical support, and modern software to build solutions that solve real-world problems.
 
 ## About Me
 
 - **Computer Engineering Graduate** from Busitema University, Uganda
-- Experience in **full-stack development**, **helpdesk support**, **LAN/WAN networking**, and **systems maintenance**
+- Skilled in **full-stack development**, **helpdesk support**, **networking**, and **systems maintenance**
 - Interested in **software engineering**, **data science**, **IoT**, **geospatial analysis**, and **robotics**
-- Passionate about building tools that are useful, reliable, and impactful in the real world
+- Passionate about creating tools that are useful, reliable, and impactful
 
 ---
 
@@ -16,48 +16,69 @@ I'm a **Computer Engineering graduate** with a strong background in **software d
 
 ### Programming Languages
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
-|--|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 
-### Frontend & Backend Frameworks
+### Frontend & Backend
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />|<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />|<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />|<img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />|<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" />|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-|--|--|--|--|--|--|--|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" />
+<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
 
-### Data, GIS & ML Libraries
+### Data, GIS & ML
 
-<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />|<img title="Scikit-learn" alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img title="Jupyter" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />|<img title="QGIS" alt="QGIS" width="40px" src="https://raw.githubusercontent.com/qgis/QGIS/master/images/qgis-icon-512.png" />
-|--|--|--|--|--|
+<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />
+<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />
+<img title="Scikit-learn" alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />
+<img title="Jupyter" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />
+<img title="QGIS" alt="QGIS" width="40px" src="https://raw.githubusercontent.com/qgis/QGIS/master/images/qgis-icon-512.png" />
 
-### Infrastructure, Tools & DevOps
+### Infrastructure & Tools
 
-<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-|--|--|--|--|--|--|--|
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 
 ### IT Infrastructure & Networking
 
-- **Helpdesk & Infrastructure Support** | **LAN/WAN fundamentals** | **IP addressing, VLANs, routing, switching** | **System administration** | **Software installation & support**
+- **Helpdesk & Infrastructure Support**
+- **LAN/WAN fundamentals**
+- **IP addressing, VLANs, routing, switching**
+- **System administration & troubleshooting**
+- **Software installation, configuration & support**
 
 ---
 
 ## Featured Projects :rocket:
 
 ### GLITE Evolution
-A modern web platform developed for GLITE Technology Group, showcasing advanced web capabilities and real-time features.
+A modern web platform developed for GLITE Technology Group, focused on presenting a professional digital presence with real-time interactive capabilities.
 
-**Live:** https://glitetechnology.vercel.app | **Repository:** https://github.com/WabuyiAndrew/glite-evolution
+**Live:** https://glitetechnology.vercel.app  
+**Repository:** https://github.com/WabuyiAndrew/glite-evolution
 
 ---
 
 ### Real-Time Pixel Match
-A real-time collaborative application featuring pixel-level matching and live synchronization capabilities.
+A real-time collaborative application with pixel-level matching and live synchronization features.
 
-**Live:** https://brelis.vercel.app | **Repository:** https://github.com/WabuyiAndrew/real-time-pixel-match
+**Live:** https://brelis.vercel.app  
+**Repository:** https://github.com/WabuyiAndrew/real-time-pixel-match
 
 ---
 
 ### BoreHole Sitter
-A hybrid application for groundwater suitability assessment using geospatial analysis and predictive modeling.
+A groundwater suitability and borehole siting application combining geospatial analysis with machine learning to support field decision-making.
 
 - Machine learning for borehole suitability prediction
 - UTM inputs and device geolocation support
@@ -71,18 +92,18 @@ A hybrid application for groundwater suitability assessment using geospatial ana
 ### BUMHCS
 A blockchain-enabled healthcare management system for secure collaboration and distributed healthcare workflows.
 
-- Healthcare workflow management
-- Secure data sharing and trust-based collaboration
-- Privacy-conscious healthcare design
+- Secure and privacy-conscious healthcare records handling
+- Trust-based collaboration between healthcare stakeholders
+- Distributed healthcare workflow design
 
 ---
 
 ### Agrilink
 An agricultural marketplace platform focused on improving market access and trade for farmers.
 
-- Multi-role user system and marketplace functionality
-- Agricultural product discovery and management
+- Marketplace functionality for agricultural products
 - User-centric agritech workflow design
+- Practical digital commerce for farming communities
 
 **Repository:** https://github.com/WabuyiAndrew/Agrilink
 
@@ -131,17 +152,17 @@ An IoT monitoring project with sensor data integration and dashboard-based monit
 
 ## GitHub Stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-|--|--|
+<img src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 
 ---
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://github.com/WabuyiAndrew"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
-|--|--|
+<a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<a href="https://github.com/WabuyiAndrew"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
 
 - **LinkedIn:** https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
 - **GitHub:** https://github.com/WabuyiAndrew
 
-I'm open to collaboration, internships, technical discussions, and opportunities where I can contribute through software, infrastructure, data, or engineering.
+I’m open to collaboration, internships, technical discussions, and opportunities where I can contribute through software, infrastructure, data, or engineering.
