@@ -1,168 +1,181 @@
+<div align="center">
 
-<h1>Hi There, I'm Wabuyi Andrew <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+  <h1>Hi, I'm Wabuyi Andrew 👋</h1>
 
-I'm a **Computer Engineering graduate** with experience in **software development, IT infrastructure support, LAN/WAN networking, GIS & remote sensing, and applied engineering**. I work across practical systems, technical support, and modern software to build solutions that solve real-world problems.
+  <h3>IT Graduate Intern · Helpdesk & Infrastructure Support · Computer Engineer</h3>
 
-## About Me
+  <p>Kampala, Uganda 🇺🇬 &nbsp;|&nbsp; BSc Computer Engineering, Busitema University</p>
 
-- **Computer Engineering Graduate** from Busitema University, Uganda
-- Skilled in **full-stack development**, **helpdesk support**, **networking**, and **systems maintenance**
-- Interested in **software engineering**, **data science**, **IoT**, **geospatial analysis**, and **robotics**
-- Passionate about creating tools that are useful, reliable, and impactful
+  <p>
+    <a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/">
+      <img src="https://img.shields.io/badge/LinkedIn-Wabuyi%20Andrew-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/WabuyiAndrew">
+      <img src="https://img.shields.io/badge/GitHub-@WabuyiAndrew-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+  </p>
 
----
-
-## Skill Set :muscle:
-
-### Programming Languages
-
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
-
-### Frontend & Backend
-
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" />
-<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-
-### Data, GIS & ML
-
-<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />
-<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />
-<img title="Scikit-learn" alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />
-<img title="Jupyter" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />
-<img title="QGIS" alt="QGIS" width="40px" src="https://raw.githubusercontent.com/qgis/QGIS/master/images/qgis-icon-512.png" />
-
-### Infrastructure & Tools
-
-<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-
-### IT Infrastructure & Networking
-
-- **Helpdesk & Infrastructure Support**
-- **LAN/WAN fundamentals**
-- **IP addressing, VLANs, routing, switching**
-- **System administration & troubleshooting**
-- **Software installation, configuration & support**
+</div>
 
 ---
 
-## Featured Projects :rocket:
+## 👨‍💻 About Me
 
-### GLITE Evolution
-A modern web platform developed for GLITE Technology Group, focused on presenting a professional digital presence with real-time interactive capabilities.
+I'm a **Computer Engineering graduate** with experience in **helpdesk and IT infrastructure support, LAN/WAN networking, software development, GIS and remote sensing**. I work across practical systems, technical support, and modern software to build solutions that solve real-world problems.
 
-**Live:** https://glitetechnology.vercel.app  
-**Repository:** https://github.com/WabuyiAndrew/glite-evolution
-
----
-
-### Real-Time Pixel Match
-A real-time collaborative application with pixel-level matching and live synchronization features.
-
-**Live:** https://brelis.vercel.app  
-**Repository:** https://github.com/WabuyiAndrew/real-time-pixel-match
+- 🎓 Computer Engineering graduate, Busitema University, Uganda
+- 🖥️ Helpdesk support, networking, and systems maintenance
+- 🧱 Full-stack development, from REST APIs to React dashboards
+- 🔭 Interested in IoT, geospatial analysis, machine learning, blockchain, and robotics
 
 ---
 
-### BoreHole Sitter
-A groundwater suitability and borehole siting application combining geospatial analysis with machine learning to support field decision-making.
+## 🛠️ Skill Set
 
-- Machine learning for borehole suitability prediction
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Fabric" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
+</p>
+
+### 🌐 IT Infrastructure & Networking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Helpdesk%20%26%20Infrastructure%20Support-4B5563?style=flat-square" alt="Helpdesk & Infrastructure Support" />
+  <img src="https://img.shields.io/badge/LAN%2FWAN-005F73?style=flat-square" alt="LAN/WAN" />
+  <img src="https://img.shields.io/badge/IP%20Addressing-1F6F8B?style=flat-square" alt="IP Addressing" />
+  <img src="https://img.shields.io/badge/VLANs-1F6F8B?style=flat-square" alt="VLANs" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-1F6F8B?style=flat-square" alt="Routing and Switching" />
+  <img src="https://img.shields.io/badge/System%20Administration-4B5563?style=flat-square" alt="System Administration" />
+  <img src="https://img.shields.io/badge/Troubleshooting-4B5563?style=flat-square" alt="Troubleshooting" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💧 BoreHole Sitter
+A groundwater suitability and borehole siting application that combines geospatial analysis with machine learning to support field decision-making.
+
+- Machine learning (XGBoost) for borehole suitability prediction
 - UTM inputs and device geolocation support
-- Map-based visualization and charting
-- Web, Android, and desktop deployment support
+- Map-based visualisation and charting
+- Web, Android, and desktop deployment
 
-**Repository:** https://github.com/WabuyiAndrew/borehole-sitter
+**Stack:** Python, FastAPI, React, TypeScript &nbsp;|&nbsp; **Repository:** [borehole-sitter](https://github.com/WabuyiAndrew/borehole-sitter)
+
+### 🏥 BUMHCS: Blockchain Healthcare Management System
+A blockchain-enabled hospital management and consultation system for secure collaboration between healthcare stakeholders.
+
+- Encrypted sharing of health records using AES-256-GCM, RSA-OAEP, and IPFS
+- Consultation messaging and role-based admin workflows
+- Hyperledger Fabric integration for trusted, tamper-resistant records
+
+**Stack:** Node.js, Express, PostgreSQL, React, Hyperledger Fabric, IPFS
+
+### 🩺 VirtualKlinic: Final-Year Project
+A blockchain-based diagnostic collaboration platform that connects practitioners with remote specialists, addressing Uganda's shortage of specialists.
+
+**Stack:** Hyperledger Fabric, IPFS
+
+### 🏢 GLITE Evolution
+A modern web platform developed for GLITE Technology Group, presenting a professional digital presence with real-time interactive capabilities.
+
+**Live:** [glitetechnology.vercel.app](https://glitetechnology.vercel.app)
+
+### 🎮 Real-Time Pixel Match
+A real-time collaborative application with pixel-level matching and live synchronisation.
+
+**Live:** [brelis.vercel.app](https://brelis.vercel.app)
+
+### 🌱 Agrilink
+An agricultural marketplace platform that improves market access and trade for farmers.
+
+**Repository:** [Agrilink](https://github.com/WabuyiAndrew/Agrilink)
+
+### 🛰️ Geospatial Project
+Remote sensing and GIS work using Sentinel-2 imagery for vegetation and soil health assessment.
+
+**Repository:** [Geospartial-Project](https://github.com/WabuyiAndrew/Geospartial-Project)
+
+### 📡 IoT Sensor Hub
+An IoT monitoring project with sensor data integration and dashboard-based monitoring.
+
+**Repository:** [iot_sensor_hub](https://github.com/WabuyiAndrew/iot_sensor_hub)
 
 ---
 
-### BUMHCS
-A blockchain-enabled healthcare management system for secure collaboration and distributed healthcare workflows.
-
-- Secure and privacy-conscious healthcare records handling
-- Trust-based collaboration between healthcare stakeholders
-- Distributed healthcare workflow design
-
----
-
-### Agrilink
-An agricultural marketplace platform focused on improving market access and trade for farmers.
-
-- Marketplace functionality for agricultural products
-- User-centric agritech workflow design
-- Practical digital commerce for farming communities
-
-**Repository:** https://github.com/WabuyiAndrew/Agrilink
-
----
-
-### Geospatial Project
-Remote sensing and GIS project focused on Sentinel-2 imagery for vegetation and soil health assessment.
-
-**Repository:** https://github.com/WabuyiAndrew/Geospartial-Project
-
----
-
-### IoT Sensor Hub
-An IoT monitoring project with sensor data integration and dashboard-based monitoring workflows.
-
-**Repository:** https://github.com/WabuyiAndrew/iot_sensor_hub
-
----
-
-## Experience
+## 💼 Experience
 
 ### IT Graduate Intern
 **Helpdesk & Infrastructure Support | Technical Support | Systems Maintenance**
 
 - Provided technical assistance and troubleshooting for end-user issues
 - Supported system administration and infrastructure maintenance tasks
-- Worked with network environments and basic LAN/WAN troubleshooting
+- Worked in network environments with basic LAN/WAN troubleshooting
 - Helped with software installation, updates, and configuration
 
-### GLITE Technology Group Limited
+### Student Developer, GLITE Technology Group Limited
 **Software Developer | IoT Platform Development**
 
-- Contributed to the 2tume IoT Monitoring Platform
-- Worked on backend and API-related features for sensor-based services
-- Supported real-time monitoring workflows and application deployment
-- Helped improve platform performance and functionality
+- Built **2tume**, an IoT monitoring platform that turns sensor readings into live dashboards
+- Integrated sensor data through REST APIs and streamed real-time updates to the UI with WebSockets
+- Stack: React, Node.js, MongoDB
 
 ---
 
-## Education
+## 🎓 Education
 
-- **BSc Computer Engineering** — Busitema University, Uganda
-- **Cisco Networking Academy** — Networking Basics Certification
-
----
-
-## GitHub Stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+- **BSc Computer Engineering**, Busitema University, Uganda
+- **Networking Basics Certification**, Cisco Networking Academy
 
 ---
 
-## Let's Connect :handshake:
+## 📈 GitHub Stats
 
-<a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-<a href="https://github.com/WabuyiAndrew"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
+<div align="center">
 
-- **LinkedIn:** https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
-- **GitHub:** https://github.com/WabuyiAndrew
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 
-I’m open to collaboration, internships, technical discussions, and opportunities where I can contribute through software, infrastructure, data, or engineering.
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to IT graduate trainee, infrastructure, support, and software roles, as well as collaborations and technical discussions.
+
+- 💼 **LinkedIn:** [Wabuyi Andrew](https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/)
+- 🐙 **GitHub:** [@WabuyiAndrew](https://github.com/WabuyiAndrew)
+
+---
+
+<div align="center">
+
+  <p><i>"Using engineering, data, and innovation to build solutions that solve real-world problems."</i></p>
+
+</div>
