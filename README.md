@@ -1,222 +1,126 @@
-# Wabuyi Andrew
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Graduate;IT+Support+%26+Infrastructure;Full-Stack+Developer;GIS+%26+Remote+Sensing;Robotics+%26+Applied+Engineering" alt="Professional profile banner" />
+<h1>Hi There, I'm Wabuyi Andrew <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-  <p>
-    <strong>IT Graduate Intern | Helpdesk & Infrastructure Support | Computer Engineering | LAN/WAN | Software Development | Robotics</strong>
-  </p>
-
-  <p>
-    <a href="https://github.com/WabuyiAndrew">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
-
----
+I'm a **Computer Engineering graduate** with a strong background in **software development, IT infrastructure support, networking, GIS & remote sensing, and applied engineering**. My work blends technical support, practical systems thinking, and modern software development to build solutions that solve real-world problems.
 
 ## About Me
 
-I am a Computer Engineering graduate with a strong foundation in software development, IT infrastructure support, networking, and applied engineering. My background combines technical support, systems troubleshooting, web application development, geospatial analysis, and practical problem-solving across software and hardware environments.
+- **Computer Engineering Graduate** from Busitema University, Uganda
+- Experience in **full-stack development**, **helpdesk support**, **LAN/WAN networking**, and **systems maintenance**
+- Interested in **software engineering**, **data science**, **IoT**, **geospatial analysis**, and **robotics**
+- Passionate about building tools that are useful, reliable, and impactful in the real world
 
-I enjoy building solutions that connect technology with real-world impact—whether that means creating full-stack web platforms, supporting system operations, analyzing geospatial data, or exploring robotics and smart systems.
+## Skill Set
 
-### Core Strengths
-- Helpdesk and IT infrastructure support
-- LAN/WAN networking fundamentals
-- Full-stack web development
-- Data science and analytical problem solving
-- GIS and remote sensing workflows
-- Robotics and applied engineering
+### Programming Languages
 
----
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
 
-## Technical Skills
+### Frontend & Backend
 
-<div align="center">
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" />
+<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
 
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html,css,react,nodejs,express,fastapi,postgres,mysql,mongodb,git,github,docker,linux&theme=dark" alt="Tech stack" />
+### Data, GIS & AI
 
-</div>
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />
+<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />
+<img title="Scikit-learn" alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />
+<img title="Jupyter" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter/jupyter.png" />
+<img title="QGIS" alt="QGIS" width="40px" src="https://raw.githubusercontent.com/qgis/QGIS/master/images/qgis-icon-512.png" />
 
-### Software Development
-- Languages: Python, JavaScript, TypeScript, PHP
-- Frontend: React, HTML, CSS, Vite
-- Backend: FastAPI, Node.js, Express, Django
-- Databases: PostgreSQL, MySQL, MongoDB
-- APIs: REST APIs, WebSockets
-- DevOps: Git, GitHub, Docker, GitHub Actions
+### Infrastructure & Tools
 
-### IT Infrastructure & Support
-- Helpdesk support and technical troubleshooting
-- LAN/WAN fundamentals
-- IP addressing, VLANs, routing, switching basics
-- System administration and maintenance
-- Software installation, configuration, and updates
-- User support and issue resolution
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 
-### Data & GIS
-- Machine learning and predictive modeling
-- Python data analysis and automation
-- QGIS and geospatial workflows
-- Sentinel-2 satellite imagery analysis
-- Remote sensing and environmental data processing
+### IT Infrastructure & Networking
 
-### Robotics & Applied Engineering
-- Embedded systems concepts
-- Hardware-oriented problem solving
-- Robotics principles and prototyping
-- Practical engineering systems integration
+- **Helpdesk & Infrastructure Support**
+- **LAN/WAN fundamentals**
+- **IP addressing, VLANs, routing, and switching basics**
+- **System administration and troubleshooting**
+- **Software installation, configuration, and support**
+- **User support and technical issue resolution**
 
----
+## Featured Projects
+
+### BoreHole Sitter
+A hybrid application for groundwater suitability assessment using geospatial analysis and predictive modeling.
+
+- Machine learning for borehole suitability prediction
+- UTM inputs and device geolocation support
+- Map-based visualization and charting
+- Web, Android, and desktop deployment support
+
+Repository: https://github.com/WabuyiAndrew/borehole-sitter
+
+### BUMHCS
+A blockchain-enabled healthcare management system for secure collaboration and distributed healthcare workflows.
+
+- Healthcare workflow management
+- Secure data sharing and trust-based collaboration
+- Privacy-conscious healthcare design
+
+### Agrilink
+An agricultural marketplace platform focused on improving market access and trade for farmers.
+
+### Geospatial Project
+Remote sensing and GIS project focused on Sentinel-2 imagery for vegetation and soil health assessment.
+
+### IoT Sensor Hub
+An IoT monitoring project with sensor data integration and dashboard-based monitoring workflows.
 
 ## Experience
 
 ### IT Graduate Intern
 **Helpdesk & Infrastructure Support | Technical Support | Systems Maintenance**
 
-- Provided IT support and troubleshooting for user-facing technical issues
-- Assisted with system administration and infrastructure maintenance tasks
-- Developed practical understanding of network environments and troubleshooting workflows
-- Supported software installation, configuration, and device setup
-- Helped maintain continuity of IT services in a productive environment
+- Provided technical assistance and troubleshooting for end-user issues
+- Supported system administration and infrastructure maintenance tasks
+- Worked with network environments and basic LAN/WAN troubleshooting
+- Helped with software installation, updates, and configuration
 
 ### GLITE Technology Group Limited
 **Software Developer | IoT Platform Development**
 
-- Contributed to the development of the 2tume IoT Monitoring Platform
-- Supported backend and API-related tasks for sensor-driven services
-- Worked with real-time data handling and monitoring systems
-- Helped integrate sensor data into application workflows
-- Supported system deployment, performance tuning, and platform improvement
-
----
-
-## Featured Projects
-
-### 🧭 BoreHole Sitter
-A groundwater suitability and borehole siting application combining geospatial analysis with machine learning to support field decision-making.
-
-**Highlights:**
-- Predictive modeling for borehole suitability assessment
-- UTM coordinate input and device geolocation support
-- Map-based visualization using satellite imagery
-- Batch prediction with charts and data-driven interpretation
-- Multi-platform deployment: web, Android APK, Windows desktop app
-
-**Stack:** Python, FastAPI, React, Vite, scikit-learn, TypeScript, ECharts, MapTiler, Capacitor, Tauri
-
-**Repository:** https://github.com/WabuyiAndrew/borehole-sitter
-
----
-
-### 🏥 BUMHCS
-A blockchain-enabled healthcare management system designed to support secure collaboration and data sharing between healthcare stakeholders.
-
-**Highlights:**
-- Secure healthcare record and workflow management
-- Distributed trust and collaboration model
-- Privacy-conscious healthcare data handling
-- Secure consultation workflow design
-
-**Stack:** React, Node.js, Hyperledger Fabric, IPFS, PostgreSQL
-
----
-
-### 🌾 Agrilink
-A digital agricultural marketplace connecting farmers, buyers, and suppliers for improved market access and trade efficiency.
-
-**Highlights:**
-- Marketplace and listing functionality
-- Agricultural product discovery and management
-- User-centric agritech workflow design
-
-**Repository:** https://github.com/WabuyiAndrew/Agrilink
-
----
-
-### 🌍 Geospatial Project
-A remote sensing and GIS project focused on Sentinel-2 imagery analysis for vegetation and soil health mapping.
-
-**Highlights:**
-- Remote sensing and raster analysis
-- Vegetation and soil health assessment
-- GIS processing and classification workflows
-- Spatial statistics and map output preparation
-
-**Repository:** https://github.com/WabuyiAndrew/Geospartial-Project
-
----
-
-### 📡 IoT Sensor Hub
-A monitoring platform for IoT sensor data, designed to support connected systems and real-time operational dashboards.
-
-**Highlights:**
-- Sensor data integration
-- Real-time monitoring workflows
-- API and dashboard connectivity
-
-**Repository:** https://github.com/WabuyiAndrew/iot_sensor_hub
-
----
+- Contributed to the 2tume IoT Monitoring Platform
+- Worked on backend and API-related features for sensor-based services
+- Supported real-time monitoring workflows and application deployment
+- Helped improve platform performance and functionality
 
 ## Education
 
-- **BSc Computer Engineering**  
-  Busitema University, Uganda
+- **BSc Computer Engineering** — Busitema University, Uganda
+- **Cisco Networking Academy** — Networking Basics Certification
 
-- **Cisco Networking Academy**  
-  Networking Basics Certification
-
----
-
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub profile stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </div>
 
----
+## Let's Connect
 
-## Current Focus
+<a href="https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<a href="https://github.com/WabuyiAndrew"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
 
-I am actively building skills and projects in the following areas:
-- Full-stack product development
-- Data science and machine learning
-- GIS and remote sensing applications
-- IoT and smart systems
-- Robotics and applied engineering
-- IT systems and infrastructure excellence
+- **LinkedIn:** https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
+- **GitHub:** https://github.com/WabuyiAndrew
 
----
-
-## Open to Opportunities
-
-I am open to:
-- Graduate trainee and internship roles
-- IT support and infrastructure opportunities
-- Junior software development positions
-- IoT and embedded systems work
-- Data/GIS-related projects
-- Robotics and engineering collaborations
-- Product and technology roles with real-world impact
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/WabuyiAndrew
-- LinkedIn: https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
-
-I am open to collaboration, technical conversations, and meaningful opportunities where technology can solve practical problems.
-
----
-
-<div align="center">
-  <sub>Building practical solutions through software development, infrastructure support, data intelligence, and engineering.</sub>
-</div>
+I’m open to collaboration, internships, technical discussions, and opportunities where I can contribute through software, infrastructure, data, or engineering.
