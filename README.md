@@ -1,13 +1,11 @@
 # Wabuyi Andrew
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Graduate;Full-Stack+Developer;Infrastructure+%26+IT+Support;GIS+%26+Remote+Sensing;Building+Practical+Solutions" alt="Professional Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Graduate;IT+Support+%26+Infrastructure;Full-Stack+Developer;GIS+%26+Remote+Sensing;Robotics+%26+Applied+Engineering" alt="Professional profile banner" />
 
   <p>
-    <strong>Software Development | Full-Stack Web Apps | IT Infrastructure | Helpdesk & Support | LAN/WAN | Robotics | Data Science | GIS</strong>
+    <strong>IT Graduate Intern | Helpdesk & Infrastructure Support | Computer Engineering | LAN/WAN | Software Development | Robotics</strong>
   </p>
-
-  <p>📍 Kampala, Uganda 🇺🇬</p>
 
   <p>
     <a href="https://github.com/WabuyiAndrew">
@@ -23,16 +21,17 @@
 
 ## About Me
 
-I am a Computer Engineering graduate from **Busitema University** with practical experience across software development, IT infrastructure, systems support, and applied engineering. I combine full-stack development skills with hands-on IT and infrastructure knowledge to build scalable, maintainable solutions.
+I am a Computer Engineering graduate with a strong foundation in software development, IT infrastructure support, networking, and applied engineering. My background combines technical support, systems troubleshooting, web application development, geospatial analysis, and practical problem-solving across software and hardware environments.
 
-My background spans:
-- **Software Development:** Building full-stack web applications, REST APIs, and real-time systems
-- **IT & Infrastructure:** Helpdesk support, network fundamentals (LAN/WAN), system administration, and troubleshooting
-- **Data Science & GIS:** Machine learning, geospatial analysis, remote sensing
-- **Robotics & Hardware:** Embedded systems concepts and practical engineering applications
-- **IoT & Connected Systems:** Sensor integration, real-time monitoring, cloud platform workflows
+I enjoy building solutions that connect technology with real-world impact—whether that means creating full-stack web platforms, supporting system operations, analyzing geospatial data, or exploring robotics and smart systems.
 
-I'm passionate about solving real-world problems by combining systems thinking, infrastructure knowledge, and modern software practices.
+### Core Strengths
+- Helpdesk and IT infrastructure support
+- LAN/WAN networking fundamentals
+- Full-stack web development
+- Data science and analytical problem solving
+- GIS and remote sensing workflows
+- Robotics and applied engineering
 
 ---
 
@@ -40,194 +39,134 @@ I'm passionate about solving real-world problems by combining systems thinking, 
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html,css,react,nodejs,express,fastapi,postgres,mysql,mongodb,git,github,docker,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,html,css,react,nodejs,express,fastapi,postgres,mysql,mongodb,git,github,docker,linux&theme=dark" alt="Tech stack" />
 
 </div>
 
-### Core Technologies & Domains
-
-**Programming Languages**
-- Python, JavaScript, TypeScript, PHP
-
-**Software Development**
-- Frontend: React, HTML, CSS, Vite, Tailwind CSS
+### Software Development
+- Languages: Python, JavaScript, TypeScript, PHP
+- Frontend: React, HTML, CSS, Vite
 - Backend: FastAPI, Node.js, Express, Django
 - Databases: PostgreSQL, MySQL, MongoDB
-- Real-time: WebSockets, REST APIs
-- Testing & Deployment: GitHub Actions, Docker
+- APIs: REST APIs, WebSockets
+- DevOps: Git, GitHub, Docker, GitHub Actions
 
-**Data Science & ML**
-- Libraries: NumPy, Pandas, scikit-learn, PyTorch
-- Tools: Jupyter Notebook, XGBoost, Hyperledger Fabric
+### IT Infrastructure & Support
+- Helpdesk support and technical troubleshooting
+- LAN/WAN fundamentals
+- IP addressing, VLANs, routing, switching basics
+- System administration and maintenance
+- Software installation, configuration, and updates
+- User support and issue resolution
 
-**GIS & Remote Sensing**
-- QGIS, Sentinel-2 satellite imagery analysis
-- Geospatial data processing and mapping
-- Spatial intelligence and environmental analysis
+### Data & GIS
+- Machine learning and predictive modeling
+- Python data analysis and automation
+- QGIS and geospatial workflows
+- Sentinel-2 satellite imagery analysis
+- Remote sensing and environmental data processing
 
-**IT Infrastructure & Networking**
-- LAN/WAN fundamentals (IP addressing, VLANs, routing, switching basics)
-- Network configuration and troubleshooting
-- System administration and Linux
-- IT helpdesk practices and technical support
-- Infrastructure management and monitoring
-
-**Hardware & Robotics**
+### Robotics & Applied Engineering
 - Embedded systems concepts
-- Robotics principles and applications
-- Practical engineering and prototyping
+- Hardware-oriented problem solving
+- Robotics principles and prototyping
+- Practical engineering systems integration
 
-**DevOps & Tools**
-- Git, GitHub, GitHub Actions
-- Docker, Linux/Ubuntu
-- CI/CD pipelines
+---
+
+## Experience
+
+### IT Graduate Intern
+**Helpdesk & Infrastructure Support | Technical Support | Systems Maintenance**
+
+- Provided IT support and troubleshooting for user-facing technical issues
+- Assisted with system administration and infrastructure maintenance tasks
+- Developed practical understanding of network environments and troubleshooting workflows
+- Supported software installation, configuration, and device setup
+- Helped maintain continuity of IT services in a productive environment
+
+### GLITE Technology Group Limited
+**Software Developer | IoT Platform Development**
+
+- Contributed to the development of the 2tume IoT Monitoring Platform
+- Supported backend and API-related tasks for sensor-driven services
+- Worked with real-time data handling and monitoring systems
+- Helped integrate sensor data into application workflows
+- Supported system deployment, performance tuning, and platform improvement
 
 ---
 
 ## Featured Projects
 
 ### 🧭 BoreHole Sitter
-A hybrid application designed to support groundwater suitability assessment using geospatial analysis and predictive modeling. **Production-ready with cross-platform deployment.**
+A groundwater suitability and borehole siting application combining geospatial analysis with machine learning to support field decision-making.
 
-**Key Features:**
-- Predictive ML model for borehole suitability assessment
-- UTM coordinate inputs and device geolocation support
-- Interactive map visualization with satellite tiles
-- Batch prediction mode with analytical charts (yield, GPI, water level)
-- Multi-platform deployment: PWA (web), Windows EXE (Tauri), Android APK (Capacitor)
+**Highlights:**
+- Predictive modeling for borehole suitability assessment
+- UTM coordinate input and device geolocation support
+- Map-based visualization using satellite imagery
+- Batch prediction with charts and data-driven interpretation
+- Multi-platform deployment: web, Android APK, Windows desktop app
 
-**Technologies:**
-- Backend: Python, FastAPI, scikit-learn, XGBoost, MODFLOW/FloPy
-- Frontend: React, Vite, TypeScript, ECharts, MapTiler/OpenStreetMap
-- Mobile/Desktop: Capacitor (Android), Tauri (Windows)
-- Deployment: Render, Railway, Vercel PWA
-- CI/CD: GitHub Actions for automated builds
-
-**Status:** ✅ Fully Functional | 🔧 Production-Ready
+**Stack:** Python, FastAPI, React, Vite, scikit-learn, TypeScript, ECharts, MapTiler, Capacitor, Tauri
 
 **Repository:** https://github.com/WabuyiAndrew/borehole-sitter
 
 ---
 
 ### 🏥 BUMHCS
-Blockchain-enabled healthcare management system for secure, distributed collaboration between hospitals, clinics, and specialists.
+A blockchain-enabled healthcare management system designed to support secure collaboration and data sharing between healthcare stakeholders.
 
-**Key Features:**
-- Role-based access control (RBAC) for healthcare professionals
-- Blockchain-backed consultation workflows and audit trails
-- Encrypted EHR (Electronic Health Record) sharing via IPFS
-- Privacy-preserving consultation history
-- Cross-institutional collaboration without central authority
+**Highlights:**
+- Secure healthcare record and workflow management
+- Distributed trust and collaboration model
+- Privacy-conscious healthcare data handling
+- Secure consultation workflow design
 
-**Technologies:**
-- Frontend: React, modern UI/UX design
-- Backend: Node.js, Express, secure API architecture
-- Database: PostgreSQL for clinical data
-- Blockchain: Hyperledger Fabric for healthcare workflows
-- Distributed Storage: IPFS for secure document sharing
-
-**Focus:** Healthcare interoperability, distributed trust, data privacy, limited-connectivity service delivery
+**Stack:** React, Node.js, Hyperledger Fabric, IPFS, PostgreSQL
 
 ---
 
 ### 🌾 Agrilink
-Agricultural marketplace platform connecting farmers, buyers, and input suppliers to improve trade efficiency and market access.
+A digital agricultural marketplace connecting farmers, buyers, and suppliers for improved market access and trade efficiency.
 
-**Key Features:**
-- Multi-role user system (farmers, buyers, suppliers)
-- Product listing and inventory management
-- Market price discovery and transparency
-- Transaction management and in-app communication
-- Mobile-friendly marketplace design
-
-**Technologies:**
-- Frontend: JavaScript, responsive web design
-- Backend: Web application best practices
-- Database: Modern data management
-
-**Focus:** Digital inclusion, agricultural commerce, smallholder farmer market access
+**Highlights:**
+- Marketplace and listing functionality
+- Agricultural product discovery and management
+- User-centric agritech workflow design
 
 **Repository:** https://github.com/WabuyiAndrew/Agrilink
 
 ---
 
-### 🌍 Geospatial Project: Sentinel-2 Satellite Imagery Analysis
-Comprehensive geospatial remote sensing project analyzing vegetation and soil health mapping using Sentinel-2 satellite data.
+### 🌍 Geospatial Project
+A remote sensing and GIS project focused on Sentinel-2 imagery analysis for vegetation and soil health mapping.
 
-**Key Features:**
-- Automated raster index calculation (NDVI, NDMI, NDRE)
-- Zonal statistics and area calculations per land cover class
-- Above Ground Carbon (AGC) proxy modeling
-- Advanced thematic analysis and classification
-- High-quality map layout and export
-
-**Technologies:**
-- Python for automated geospatial processing
-- QGIS for GIS workflows and visualization
-- Sentinel-2 L2A data (Copernicus Open Access Hub)
-- Statistical analysis and raster-to-polygon conversion
-
-**Focus:** Remote sensing, environmental monitoring, geospatial automation
+**Highlights:**
+- Remote sensing and raster analysis
+- Vegetation and soil health assessment
+- GIS processing and classification workflows
+- Spatial statistics and map output preparation
 
 **Repository:** https://github.com/WabuyiAndrew/Geospartial-Project
 
 ---
 
 ### 📡 IoT Sensor Hub
-Real-time IoT monitoring platform with API integration, WebSocket-based dashboards, and sensor data workflows.
+A monitoring platform for IoT sensor data, designed to support connected systems and real-time operational dashboards.
 
-**Key Features:**
-- Sensor data acquisition and real-time streaming
-- REST API for data access
-- WebSocket-based live dashboards
-- Multi-sensor integration
-- Backend services and deployment workflows
-
-**Technologies:**
-- Node.js, Express, MongoDB
-- WebSockets for real-time communication
-- REST API design
-- IoT platform architecture
+**Highlights:**
+- Sensor data integration
+- Real-time monitoring workflows
+- API and dashboard connectivity
 
 **Repository:** https://github.com/WabuyiAndrew/iot_sensor_hub
 
 ---
 
-### Additional Projects
-- **Ground Water Prediction** — ML predictive modeling for groundwater suitability
-- **Task Manager** — Full-stack app (Django backend, React frontend, PostgreSQL)
-- **Clothing E-commerce Store** — Complete e-commerce platform with payment integration
-
----
-
-## Experience
-
-### **IT Graduate Intern**
-**Helpdesk & Infrastructure Support | Systems Administration | Technical Support**
-
-Provided IT support and infrastructure management including:
-- **Helpdesk & Technical Support:** User assistance, troubleshooting, ticket management
-- **Infrastructure Support:** System administration, maintenance, and optimization
-- **Network Fundamentals:** LAN/WAN configuration, IP addressing, basic switching and routing
-- **Software Deployment:** Application installation, updates, and deployment workflows
-- **Documentation & Knowledge Management:** Creating support materials and maintaining infrastructure records
-
-### **GLITE Technology Group Limited**
-**Full-Stack Developer | IoT Platform Development**
-
-Contributed to the **2tume IoT Monitoring Platform** with focus on:
-- Full-stack web application development
-- Sensor data integration and REST API development
-- Real-time dashboard implementation (WebSockets)
-- Backend services architecture and optimization
-- Application deployment and performance tuning
-- IoT platform scaling and reliability
-
----
-
 ## Education
 
-- **Bachelor of Science in Computer Engineering**  
+- **BSc Computer Engineering**  
   Busitema University, Uganda
 
 - **Cisco Networking Academy**  
@@ -238,58 +177,46 @@ Contributed to the **2tume IoT Monitoring Platform** with focus on:
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WabuyiAndrew&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub profile stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WabuyiAndrew&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
 </div>
-
----
-
-## Areas of Expertise
-
-✅ **Full-Stack Web Development** — Frontend & backend design, database architecture  
-✅ **IT & Infrastructure** — Helpdesk support, LAN/WAN, system administration  
-✅ **Data Science & ML** — Predictive modeling, statistical analysis, ML deployment  
-✅ **Geospatial Intelligence** — Remote sensing, satellite imagery, spatial analysis  
-✅ **IoT & Real-Time Systems** — Sensor integration, WebSocket dashboards, monitoring  
-✅ **Robotics & Hardware** — Embedded systems, practical engineering applications  
-✅ **Cloud & DevOps** — Docker, GitHub Actions, CI/CD pipelines, cloud deployment  
 
 ---
 
 ## Current Focus
 
-I am actively working on:
-- Building production-ready full-stack applications
-- Expanding machine learning and data science capabilities
-- Exploring geospatial and environmental technology applications
-- Advancing IT infrastructure and systems knowledge
-- Contributing to robotics and embedded systems projects
-- Open-source development and community contributions
+I am actively building skills and projects in the following areas:
+- Full-stack product development
+- Data science and machine learning
+- GIS and remote sensing applications
+- IoT and smart systems
+- Robotics and applied engineering
+- IT systems and infrastructure excellence
 
 ---
 
-## Seeking Opportunities
+## Open to Opportunities
 
-I am interested in:
-- 💼 Graduate trainee and junior software development roles
-- 🔧 IT support and infrastructure positions
-- 📊 Full-stack development opportunities
-- 🤖 Robotics and embedded systems projects
-- 📡 IoT and smart systems development
-- 🌍 GIS, remote sensing, and geospatial consulting
-- 🚀 Technology projects with real-world impact
+I am open to:
+- Graduate trainee and internship roles
+- IT support and infrastructure opportunities
+- Junior software development positions
+- IoT and embedded systems work
+- Data/GIS-related projects
+- Robotics and engineering collaborations
+- Product and technology roles with real-world impact
 
 ---
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/WabuyiAndrew
-- **LinkedIn:** https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
+- GitHub: https://github.com/WabuyiAndrew
+- LinkedIn: https://www.linkedin.com/in/wabuyi-andrew-95a2523a2/
 
-I'm open to collaboration, employment opportunities, technical discussions, and meaningful projects that drive innovation.
+I am open to collaboration, technical conversations, and meaningful opportunities where technology can solve practical problems.
 
 ---
 
 <div align="center">
-  <sub>🚀 Building practical solutions through software engineering, infrastructure knowledge, data intelligence, and continuous learning.</sub>
+  <sub>Building practical solutions through software development, infrastructure support, data intelligence, and engineering.</sub>
 </div>
